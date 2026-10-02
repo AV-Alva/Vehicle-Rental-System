@@ -1,0 +1,14 @@
+2026-10-02 18:34:03,725 - INFO - Vehicle created: KA01AB1234 - Toyota Innova
+2026-10-02 18:34:03,726 - INFO - Car created: KA01AB1234, Seats: 7
+2026-10-02 18:34:03,726 - INFO - Vehicle created: KA02CD5678 - Hyundai Creta
+2026-10-02 18:34:03,726 - INFO - Car created: KA02CD5678, Seats: 5
+2026-10-02 18:34:03,726 - INFO - Vehicle created: KA03EF1111 - Royal Enfield Classic 350
+2026-10-02 18:34:03,726 - INFO - Bike created: KA03EF1111, Engine: 350cc
+2026-10-02 18:34:03,726 - INFO - Vehicle created: KA04GH2222 - Honda Activa
+2026-10-02 18:34:03,726 - INFO - Bike created: KA04GH2222, Engine: 110cc
+2026-10-02 18:34:03,727 - INFO - Rent calculated for KA01AB1234: 3 days = \u20b910500
+2026-10-02 18:34:03,728 - INFO - Rent calculated for KA02CD5678: 5 days = \u20b914000
+2026-10-02 18:34:03,729 - INFO - Rent calculated for KA03EF1111: 2 days = \u20b92400
+2026-10-02 18:34:03,730 - INFO - Rent calculated for KA04GH2222: 4 days = \u20b92400
+2026-10-02 18:34:03,731 - ERROR - Invalid rental duration for KA01AB1234: 0
+2026-10-02 18:34:03,731 - ERROR - Rental failed: Rental days must be greater than zero.
